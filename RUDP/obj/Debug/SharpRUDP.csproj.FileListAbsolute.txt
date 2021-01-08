@@ -1,0 +1,5 @@
+C:\Users\Paul\Documents\Projects\SharpRUDP-master\SharpRUDP\SharpRUDP\bin\Debug\SharpRUDP.dll
+C:\Users\Paul\Documents\Projects\SharpRUDP-master\SharpRUDP\SharpRUDP\bin\Debug\SharpRUDP.pdb
+C:\Users\Paul\Documents\Projects\SharpRUDP-master\SharpRUDP\SharpRUDP\obj\Debug\SharpRUDP.csproj.CoreCompileInputs.cache
+C:\Users\Paul\Documents\Projects\SharpRUDP-master\SharpRUDP\SharpRUDP\obj\Debug\SharpRUDP.dll
+C:\Users\Paul\Documents\Projects\SharpRUDP-master\SharpRUDP\SharpRUDP\obj\Debug\SharpRUDP.pdb

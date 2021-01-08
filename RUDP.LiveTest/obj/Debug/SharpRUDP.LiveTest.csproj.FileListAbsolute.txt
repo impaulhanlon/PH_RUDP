@@ -1,0 +1,13 @@
+C:\Users\Paul\Documents\Projects\SharpRUDP-master\SharpRUDP\SharpRUDP.LiveTest\obj\Debug\SharpRUDP.LiveTest.csproj.CoreCompileInputs.cache
+C:\Users\Paul\Documents\Projects\SharpRUDP-master\SharpRUDP\SharpRUDP.LiveTest\bin\Debug\SharpRUDP.LiveTest.exe.config
+C:\Users\Paul\Documents\Projects\SharpRUDP-master\SharpRUDP\SharpRUDP.LiveTest\bin\Debug\SharpRUDP.LiveTest.exe
+C:\Users\Paul\Documents\Projects\SharpRUDP-master\SharpRUDP\SharpRUDP.LiveTest\bin\Debug\SharpRUDP.LiveTest.pdb
+C:\Users\Paul\Documents\Projects\SharpRUDP-master\SharpRUDP\SharpRUDP.LiveTest\bin\Debug\SharpRUDP.Test.dll
+C:\Users\Paul\Documents\Projects\SharpRUDP-master\SharpRUDP\SharpRUDP.LiveTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Paul\Documents\Projects\SharpRUDP-master\SharpRUDP\SharpRUDP.LiveTest\bin\Debug\SharpRUDP.dll
+C:\Users\Paul\Documents\Projects\SharpRUDP-master\SharpRUDP\SharpRUDP.LiveTest\bin\Debug\SharpRUDP.Test.pdb
+C:\Users\Paul\Documents\Projects\SharpRUDP-master\SharpRUDP\SharpRUDP.LiveTest\bin\Debug\SharpRUDP.pdb
+C:\Users\Paul\Documents\Projects\SharpRUDP-master\SharpRUDP\SharpRUDP.LiveTest\obj\Debug\SharpRUDP.LiveTest.csprojAssemblyReference.cache
+C:\Users\Paul\Documents\Projects\SharpRUDP-master\SharpRUDP\SharpRUDP.LiveTest\obj\Debug\SharpRUDP.LiveTest.csproj.CopyComplete
+C:\Users\Paul\Documents\Projects\SharpRUDP-master\SharpRUDP\SharpRUDP.LiveTest\obj\Debug\SharpRUDP.LiveTest.exe
+C:\Users\Paul\Documents\Projects\SharpRUDP-master\SharpRUDP\SharpRUDP.LiveTest\obj\Debug\SharpRUDP.LiveTest.pdb

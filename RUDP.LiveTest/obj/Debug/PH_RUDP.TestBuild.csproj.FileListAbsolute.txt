@@ -1,0 +1,26 @@
+D:\PH_RUDP\RUDP.LiveTest\bin\Debug\PH_RUDP.TestBuild.exe.config
+D:\PH_RUDP\RUDP.LiveTest\bin\Debug\PH_RUDP.TestBuild.exe
+D:\PH_RUDP\RUDP.LiveTest\bin\Debug\PH_RUDP.TestBuild.pdb
+D:\PH_RUDP\RUDP.LiveTest\bin\Debug\PH_RUDP.Test.dll
+D:\PH_RUDP\RUDP.LiveTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\PH_RUDP\RUDP.LiveTest\bin\Debug\PH_RUDP.dll
+D:\PH_RUDP\RUDP.LiveTest\bin\Debug\PH_RUDP.Test.pdb
+D:\PH_RUDP\RUDP.LiveTest\bin\Debug\PH_RUDP.pdb
+D:\PH_RUDP\RUDP.LiveTest\obj\Debug\PH_RUDP.TestBuild.csprojAssemblyReference.cache
+D:\PH_RUDP\RUDP.LiveTest\obj\Debug\PH_RUDP.TestBuild.csproj.CoreCompileInputs.cache
+D:\PH_RUDP\RUDP.LiveTest\obj\Debug\PH_RUDP.TestBuild.csproj.CopyComplete
+D:\PH_RUDP\RUDP.LiveTest\obj\Debug\PH_RUDP.TestBuild.exe
+D:\PH_RUDP\RUDP.LiveTest\obj\Debug\PH_RUDP.TestBuild.pdb
+D:\New folder\PH_RUDP\RUDP.LiveTest\bin\Debug\PH_RUDP.TestBuild.exe.config
+D:\New folder\PH_RUDP\RUDP.LiveTest\bin\Debug\PH_RUDP.TestBuild.exe
+D:\New folder\PH_RUDP\RUDP.LiveTest\bin\Debug\PH_RUDP.TestBuild.pdb
+D:\New folder\PH_RUDP\RUDP.LiveTest\bin\Debug\PH_RUDP.Test.dll
+D:\New folder\PH_RUDP\RUDP.LiveTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\New folder\PH_RUDP\RUDP.LiveTest\bin\Debug\PH_RUDP.dll
+D:\New folder\PH_RUDP\RUDP.LiveTest\bin\Debug\PH_RUDP.Test.pdb
+D:\New folder\PH_RUDP\RUDP.LiveTest\bin\Debug\PH_RUDP.pdb
+D:\New folder\PH_RUDP\RUDP.LiveTest\obj\Debug\PH_RUDP.TestBuild.csprojAssemblyReference.cache
+D:\New folder\PH_RUDP\RUDP.LiveTest\obj\Debug\PH_RUDP.TestBuild.csproj.CoreCompileInputs.cache
+D:\New folder\PH_RUDP\RUDP.LiveTest\obj\Debug\PH_RUDP.TestBuild.csproj.CopyComplete
+D:\New folder\PH_RUDP\RUDP.LiveTest\obj\Debug\PH_RUDP.TestBuild.exe
+D:\New folder\PH_RUDP\RUDP.LiveTest\obj\Debug\PH_RUDP.TestBuild.pdb

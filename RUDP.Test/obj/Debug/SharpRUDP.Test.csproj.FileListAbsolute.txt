@@ -1,0 +1,10 @@
+C:\Users\Paul\Documents\Projects\SharpRUDP-master\SharpRUDP\SharpRUDP.Test\obj\Debug\SharpRUDP.Test.csprojAssemblyReference.cache
+C:\Users\Paul\Documents\Projects\SharpRUDP-master\SharpRUDP\SharpRUDP.Test\obj\Debug\SharpRUDP.Test.csproj.CoreCompileInputs.cache
+C:\Users\Paul\Documents\Projects\SharpRUDP-master\SharpRUDP\SharpRUDP.Test\bin\Debug\SharpRUDP.Test.dll
+C:\Users\Paul\Documents\Projects\SharpRUDP-master\SharpRUDP\SharpRUDP.Test\bin\Debug\SharpRUDP.Test.pdb
+C:\Users\Paul\Documents\Projects\SharpRUDP-master\SharpRUDP\SharpRUDP.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Paul\Documents\Projects\SharpRUDP-master\SharpRUDP\SharpRUDP.Test\bin\Debug\SharpRUDP.dll
+C:\Users\Paul\Documents\Projects\SharpRUDP-master\SharpRUDP\SharpRUDP.Test\bin\Debug\SharpRUDP.pdb
+C:\Users\Paul\Documents\Projects\SharpRUDP-master\SharpRUDP\SharpRUDP.Test\obj\Debug\SharpRUDP.Test.csproj.CopyComplete
+C:\Users\Paul\Documents\Projects\SharpRUDP-master\SharpRUDP\SharpRUDP.Test\obj\Debug\SharpRUDP.Test.dll
+C:\Users\Paul\Documents\Projects\SharpRUDP-master\SharpRUDP\SharpRUDP.Test\obj\Debug\SharpRUDP.Test.pdb

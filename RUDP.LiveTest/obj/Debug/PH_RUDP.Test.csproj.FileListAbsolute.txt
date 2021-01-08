@@ -1,0 +1,13 @@
+D:\PH_RUDP\SharpRUDP.LiveTest\bin\Debug\SharpRUDP.LiveTest.exe.config
+D:\PH_RUDP\SharpRUDP.LiveTest\bin\Debug\SharpRUDP.LiveTest.exe
+D:\PH_RUDP\SharpRUDP.LiveTest\bin\Debug\SharpRUDP.LiveTest.pdb
+D:\PH_RUDP\SharpRUDP.LiveTest\bin\Debug\SharpRUDP.Test.dll
+D:\PH_RUDP\SharpRUDP.LiveTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\PH_RUDP\SharpRUDP.LiveTest\bin\Debug\SharpRUDP.dll
+D:\PH_RUDP\SharpRUDP.LiveTest\bin\Debug\SharpRUDP.Test.pdb
+D:\PH_RUDP\SharpRUDP.LiveTest\bin\Debug\SharpRUDP.pdb
+D:\PH_RUDP\SharpRUDP.LiveTest\obj\Debug\PH_RUDP.Test.csprojAssemblyReference.cache
+D:\PH_RUDP\SharpRUDP.LiveTest\obj\Debug\PH_RUDP.Test.csproj.CoreCompileInputs.cache
+D:\PH_RUDP\SharpRUDP.LiveTest\obj\Debug\PH_RUDP.Test.csproj.CopyComplete
+D:\PH_RUDP\SharpRUDP.LiveTest\obj\Debug\SharpRUDP.LiveTest.exe
+D:\PH_RUDP\SharpRUDP.LiveTest\obj\Debug\SharpRUDP.LiveTest.pdb
