@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PH_RUDP", "RUDP\PH_RUDP.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PH_RUDP.Test", "RUDP.Test\PH_RUDP.Test.csproj", "{CC5EBCA9-5D4A-49F7-B36A-59104DE07CC8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PH_RUDP.TestBuild", "RUDP.LiveTest\PH_RUDP.TestBuild.csproj", "{C1A5A429-FA58-4727-97EB-6257617F057E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PH_RUDP.TestBuild", "RUDP.Build\PH_RUDP.TestBuild.csproj", "{C1A5A429-FA58-4727-97EB-6257617F057E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
